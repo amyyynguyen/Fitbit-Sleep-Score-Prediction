@@ -1,5 +1,5 @@
 ---
-title: "PSTAT131 Final Project"
+title: "Using Machine Learning to Predict Fitbit Sleep Scores"
 author: "Amy Nguyen"
 output: html_document
 ---
