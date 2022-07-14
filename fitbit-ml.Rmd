@@ -1,7 +1,8 @@
 ---
-title: "Using Machine Learning to Predict Fitbit Sleep Scores"
+title: 'Predicting Fitbit Sleep Score with Machine Learning '
 author: "Amy Nguyen"
-output: html_document
+output:
+  html_document: default
 ---
 
 ```{r setup, include=FALSE}
